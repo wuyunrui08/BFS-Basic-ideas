@@ -12,13 +12,13 @@
 ---
 
 ### 举个例子，这是图的形式
-![photo1](https://img2018.cnblogs.com/blog/1723659/201911/1723659-20191117113618907-169765746.png)
+![photo1](./BFSPhotos/photo1.png)
 
 ### 然后便是其邻接矩阵的形式：
-![photo2][photo2]
+![photo2](./BFSPhotos/photo2.png)
 
 ### 再者是其邻接表的形式：
-![photo3][photo3]
+![photo3](./BFSPhotos/photo3.png)
 
 
 >如若没有了解该算法的大体思想，可以参考我的另一篇文章
@@ -207,11 +207,6 @@ GraphBFS::~GraphBFS()
 ```
 
 ---
-
-[photo2]:https://img2018.cnblogs.com/blog/1723659/201911/1723659-20191117113345513-1199290410.png
-
-[photo3]:https://img2018.cnblogs.com/blog/1723659/201911/1723659-20191117113357490-372059604.png
-
 
 
 
